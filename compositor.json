@@ -41,6 +41,14 @@
         {
           "href": "https://github.com/davidmatayoshi/Compositor",
           "text": "GitHub"
+        },
+        {
+          "href": "https://twitter.com/",
+          "text": "Twitter"
+        },
+        {
+          "href": "https://mail.google.com",
+          "text": "Gmail"
         }
       ]
     },
